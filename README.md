@@ -16,11 +16,23 @@ I have preprocessed the data, applied association rule mining to determine which
 
 1. **Demographics Dashboard**: Explores the interconnections between age, marital status, number of companies worked, job satisfaction, and their impact on employee attrition, enabling the identification of demographic-specific trends.
 
+![image](https://github.com/Wsahil/Employee-Attrition-Analysis-using-Tableau/assets/71370836/f0f7f343-b5c8-4fca-af1c-5e909f3e8914)
+
+
 2. **Age Dashboard**: Focuses on workforce demographics, facilitating informed decision-making in areas such as succession planning, training initiatives, and fostering an inclusive workplace that caters to various age groups.
+
+![image](https://github.com/Wsahil/Employee-Attrition-Analysis-using-Tableau/assets/71370836/57938cb8-d3d8-4617-9e6c-3c9a7bbf2008)
+
 
 3. **Salary Dashboard**: Provides insights into compensation structures, empowering informed decisions to attract and retain top talent, ensuring a prosperous and equitable journey for all employees.
 
+![image](https://github.com/Wsahil/Employee-Attrition-Analysis-using-Tableau/assets/71370836/be7fe274-da6d-4d5b-8514-ea97dce43622)
+
+
 4. **Ratings Dashboard**: Analyzes attrition based on the work environment, deciphering the impact of workplace conditions on employee retention, and helping organizations enhance their work environment to foster employee satisfaction, engagement, and reduce attrition rates.
+
+![image](https://github.com/Wsahil/Employee-Attrition-Analysis-using-Tableau/assets/71370836/63f9e51c-646a-41e0-8aaf-b6760b1f8c20)
+
 
 ## Key Insights
 
